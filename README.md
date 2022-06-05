@@ -1,6 +1,6 @@
-# 👋 Hello, welcome to my page!
+# Hello 👋, welcome to my page!
 
-- 🗃️ I code **Minecraft datapacks**, [check them out](http://bit.ly/PMCpupett)!
-- 🍵 I am also learning **Java**, looking towards making mods in the future!
-#
-- 🖥️ *Linux user*
+- 🗃️ I make code in block game, [check it out](http://bit.ly/PMCpupett)!
+- 🌐 I am also learning **Web developement**, looking towards making websites in the future!
+
+- 🖥️ *Proud Linux user*
